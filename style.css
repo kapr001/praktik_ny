@@ -575,6 +575,54 @@ html {
   display: none; /** Fjerner burger i desktop **/
 }
 
+/** BACK TO TOP KNAP **/
+/** BACK TO TOP MED W3 SCHOOLS **/
+#myBtn {
+  display: none; /** Fjerner, viser med JS **/
+  position: fixed; /** Fastgør **/
+  bottom: 20px; /** Placering **/
+  right: 30px; /** Placering **/
+  z-index: 99; /** Kommer frem, for alt **/
+  font-size: 18px; /** Font størrelse **/
+  border: none; /** Stroke væk **/
+  background-color: #66476f; /** Knap farve **/
+  color: white; /** Pil farve **/
+  cursor: pointer; /** Pege **/
+  padding: 10px /** top + bund **/ 30px; /** højre + venstre **/ /** Indvendig afstand **/
+}
+.software {
+  padding-top: 2%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%; /* valgfrit - justér størrelsen */
+}
+
+/** HOVER B2TOP **/
+#myBtn:hover {
+  background-color: #91659d; /** Farve **/
+}
+
+/** PIL I KNAP **/
+.arrow {
+  border: solid white; /** Solid for at vise **/
+  border-width: 0 3px 3px 0; /** Form **/
+  display: inline-block; /** Gør V **/
+  padding: 3px; /** Vises **/
+}
+
+.up {
+  transform: rotate(-135deg); /** Roterer V **/
+}
+
+/** HOVER **/
+#myBtn:hover .arrow {
+  border: solid black; /** Solid for at vise **/
+  border-width: 0 3px 3px 0; /** Form **/
+  display: inline-block; /** Gør V **/
+  padding: 3px; /** Vises **/
+}
+
 /** Menu responsiv **/
 @media (max-width: 870px) {
   .menu {
@@ -727,7 +775,7 @@ html {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 990px) {
   .grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
