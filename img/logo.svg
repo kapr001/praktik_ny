@@ -1,45 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 481.44 52.01">
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 481.4 52">
+  <!-- Generator: Adobe Illustrator 29.0.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 186)  -->
   <defs>
     <style>
-      .cls-1 {
+      .st0 {
         fill: #231f20;
-        font-family: GroteskMedium, Grotesk;
-        font-size: 48px;
       }
 
-      .cls-2 {
-        letter-spacing: 0em;
-      }
-
-      .cls-3 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-4 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-5 {
-        letter-spacing: 0em;
-      }
-
-      .cls-6 {
-        letter-spacing: 0em;
-      }
-
-      .cls-7 {
-        letter-spacing: 0em;
-      }
-
-      .cls-8 {
-        letter-spacing: 0em;
-      }
-
-      .cls-9 {
-        letter-spacing: 0em;
+      .st1 {
+        isolation: isolate;
       }
     </style>
   </defs>
-  <text class="cls-1" transform="translate(0 40.01)"><tspan x="0" y="0">KA</tspan><tspan class="cls-4" x="61.68" y="0">R</tspan><tspan class="cls-9" x="91.34" y="0">O</tspan><tspan x="127.82" y="0">L</tspan><tspan class="cls-7" x="151.34" y="0">I</tspan><tspan class="cls-2" x="166.17" y="0">NE </tspan><tspan class="cls-5" x="242.3" y="0">P</tspan><tspan class="cls-8" x="270" y="0">R</tspan><tspan class="cls-6" x="300" y="0">I</tspan><tspan x="314.78" y="0">M</tspan><tspan class="cls-3" x="359.13" y="0">D</tspan><tspan x="392.4" y="0">AHL</tspan></text>
+  <g class="st1">
+    <path class="st0" d="M11.2,8v13.7l10.5-13.7h8.7l-11.5,14.9,13.1,17.1h-9.9l-10.9-14.3v14.3H3.6V8h7.6Z"/>
+    <path class="st0" d="M50.7,8l10.9,32h-8l-2.3-6.8h-11.3l-2.4,6.8h-7.4L42.2,8h8.5ZM49.8,27.8l-3.7-11.4-4.1,11.4h7.9Z"/>
+  </g>
+  <g class="st1">
+    <path class="st0" d="M65.3,40V8h11.4c3.6,0,6.2.4,7.7,1.2,2.9,1.6,4.3,4.2,4.3,7.9s-.6,4.1-1.8,5.8c-.8,1.1-2,2.1-3.6,3l8,14.1h-8.9l-6.4-12.7h-3v12.7h-7.6ZM72.9,21.7h2.4c3.6,0,5.4-1.4,5.4-4.1s-.4-2.2-1.2-2.7c-.8-.5-2.1-.8-3.9-.8h-2.8v7.6Z"/>
+  </g>
+  <g class="st1">
+    <path class="st0" d="M109.6,7.2c4.4,0,8.1,1.2,11,3.5,3.6,2.9,5.4,7.3,5.4,13.2s-1.8,10.4-5.4,13.3c-2.9,2.3-6.5,3.5-10.9,3.5s-8.1-1.2-11-3.5c-3.6-2.9-5.4-7.4-5.4-13.6s1.8-10.1,5.4-13c2.9-2.3,6.6-3.5,11-3.5ZM109.6,13.2c-2.4,0-4.4,1-5.9,2.9-1.5,2-2.2,4.5-2.2,7.7s.7,6,2.2,8c1.5,2,3.4,3,5.9,3s4.4-1,5.9-3c1.5-2,2.2-4.6,2.2-7.8s-.7-5.9-2.2-7.8c-1.5-2-3.4-3-5.9-3Z"/>
+  </g>
+  <g class="st1">
+    <path class="st0" d="M139.2,8v26.1h12v6h-19.6V8h7.7Z"/>
+  </g>
+  <g class="st1">
+    <path class="st0" d="M162.7,8v32h-7.7V8h7.7Z"/>
+  </g>
+  <g class="st1">
+    <path class="st0" d="M199.6,8v32h-7.6l-14.5-19.6v19.6h-7.6V8h7.3l14.8,20.1V8h7.6Z"/>
+    <path class="st0" d="M214.6,21h12.1v5.7h-12.1v7.4h13.9v6h-21.6V8h19.8v6h-12.1v7.1Z"/>
+  </g>
+  <g class="st1">
+    <path class="st0" d="M246,40V8h12.5c3.3,0,5.8.6,7.4,1.8,2.4,1.8,3.6,4.3,3.6,7.7s-1.9,7.6-5.8,9.3c-2,.9-4.6,1.3-8,1.3h-2v11.9h-7.7ZM253.7,22h1.9c2.1,0,3.6-.3,4.6-1,.9-.6,1.4-1.7,1.4-3.1s-.7-2.9-2-3.5c-.6-.3-1.9-.4-3.7-.4h-2.2v8Z"/>
+  </g>
+  <g class="st1">
+    <path class="st0" d="M273.6,40V8h11.4c3.6,0,6.2.4,7.7,1.2,2.9,1.6,4.3,4.2,4.3,7.9s-.6,4.1-1.8,5.8c-.8,1.1-2,2.1-3.6,3l8,14.1h-8.9l-6.4-12.7h-3v12.7h-7.6ZM281.2,21.7h2.4c3.6,0,5.4-1.4,5.4-4.1s-.4-2.2-1.2-2.7c-.8-.5-2.1-.8-3.9-.8h-2.8v7.6Z"/>
+  </g>
+  <g class="st1">
+    <path class="st0" d="M311.4,8v32h-7.7V8h7.7Z"/>
+  </g>
+  <g class="st1">
+    <path class="st0" d="M355.5,8v32h-7.4v-20.5l-8.1,20.5h-5.8l-8.2-20.5v20.5h-7.4V8h9.7l8.8,20.4,8.9-20.4h9.6Z"/>
+  </g>
+  <g class="st1">
+    <path class="st0" d="M362.8,8h13.2c10.2,0,15.4,5.1,15.4,15.4s-2.1,11.5-6.3,14.3c-2.4,1.6-5.5,2.4-9.5,2.4h-12.8V8ZM370.5,13.9v20.1h3.7c2.7,0,4.7-.6,6-1.8,2-1.8,3-4.7,3-8.7s-1.1-7-3.4-8.4c-1.2-.8-3.1-1.2-5.7-1.2h-3.6Z"/>
+  </g>
+  <g class="st1">
+    <path class="st0" d="M412.2,8l10.9,32h-8l-2.3-6.8h-11.3l-2.4,6.8h-7.4l12-32h8.5ZM411.3,27.8l-3.7-11.4-4.1,11.4h7.9Z"/>
+    <path class="st0" d="M454.2,8v32h-7.7v-13h-12v13h-7.7V8h7.7v12.9h12V8h7.7Z"/>
+    <path class="st0" d="M469.3,8v26.1h12v6h-19.6V8h7.7Z"/>
+  </g>
 </svg>
