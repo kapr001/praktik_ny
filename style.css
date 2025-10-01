@@ -791,6 +791,14 @@ html {
     padding-bottom: 0%;
   }
 
+  .grid_1-1-1_ {
+    grid-template-columns: 1fr;
+  }
+
+  .logo1 {
+    width: 50%;
+  }
+
   .grid_1-1-1-1-1 {
     padding-top: 5%;
   }
