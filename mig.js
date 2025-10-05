@@ -135,3 +135,15 @@ function topFunction() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
 }
+
+document.querySelectorAll("a").forEach((link) => {
+  // Hent URL’en fra linket
+  const href = link.getAttribute("href");
+
+  // Hvis linket starter med "http" og IKKE indeholder dit eget domæne eller en "#", så er det eksternt
+  if (href && href.startsWith("http") && !href.includes(window.location.hostname)) {
+    link.setAttribute("target", "_blank");
+    link.setAttribute("rel", "noopener noreferrer");
+  }
+  // Ellers gør den ingenting = forbliver på siden
+});
